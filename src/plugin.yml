@@ -1,0 +1,10 @@
+name: 5b5ttablist
+author: cubebuilder
+version: 1.0
+main: co.cubebuilder.tablist.Main
+description: TNT TAG
+
+commands:
+ tab:
+  usage: /<command>
+  description: Issues the main command
